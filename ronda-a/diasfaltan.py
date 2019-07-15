@@ -1,5 +1,4 @@
 from datetime import date
-import math
 
 T = int(input(""))
 casos = []

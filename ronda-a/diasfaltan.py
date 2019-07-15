@@ -1,4 +1,4 @@
-from datetime import date;
+from datetime import date
 import math
 
 T = int(input(""))

@@ -1,7 +1,4 @@
-import math
-
 T = int(input(""))
-
 casos = []
 
 for i in range(T):
